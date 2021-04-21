@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "statistics.js",
+  "scripts": {
+    "start": "node statistics.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "plotly": "^1.0.6",
+    "simple-statistics": "^7.7.0",
+    "underscore": "^1.13.1"
+  }
+}

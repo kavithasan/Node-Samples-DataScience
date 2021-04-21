@@ -2,9 +2,9 @@
   "name": "node",
   "version": "1.0.0",
   "description": "",
-  "main": "statistics.js",
+  "main": "linearregression.js",
   "scripts": {
-    "start": "node statistics.js"
+    "start": "node linearregression.js"
   },
   "author": "",
   "license": "ISC",
